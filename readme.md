@@ -25,8 +25,6 @@ This repo consists of codes which are useful in predicting the handwritten digit
 * Google colab is an excellent resource for running deep learning modules.
 * Goto [this](https://colab.research.google.com/notebooks/intro.ipynb) page and signup.
 
-![](https://github.com/1CH1GO/keras_mnist/blob/master/images/image_1.jpg?raw=true)
-
 * After signing up go to File > New Notebook. A new window will pop up.
 
 ![]()
