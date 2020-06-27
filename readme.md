@@ -44,11 +44,13 @@ Added **GUI**. Thanks and credit goes to the author of [this](https://medium.com
 
 * I learnt how to do this by reading a Book on deep learning (i am still learning things from it :smile:).
 
+* The book can be found in deep_learning_resources repository along with many cool things that i found interesting while i am on my adventure.
+
 * I coded and trained my code on Google Colab which offers decent service in executing and training our models. My local machine literally becomes a hot pan when i try to train a model.
 
 ---
 
-## Some predictions dont make sense :think:
+## Some predictions dont make sense :thinking:
 
 * Yes thats true if you try to play with the model for sometime you will see that the model gives weird predictions.
 
