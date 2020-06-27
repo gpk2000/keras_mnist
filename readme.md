@@ -2,6 +2,8 @@
 
 This repo consists of codes which are useful in predicting the handwritten digits. The dataset used is from the keras MNIST dataset. Although this is the "Hello world" of deep learning, this model achieves an accuracy of about 98% which is pretty cool for a basic model. There are many ways to improve this model which would be done in the future.
 
+**UPD**: I added the convolution network code which acheives 99% accuracy. Awesome!!
+
 ---
 
 ## Usage on Local Machine
@@ -49,5 +51,4 @@ This repo consists of codes which are useful in predicting the handwritten digit
 * After doing that you can just execute the file as mentioned in Usage.
 
 ---
-
 
