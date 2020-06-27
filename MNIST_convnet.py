@@ -52,3 +52,6 @@ model.fit(train_images, train_labels, batch_size=64, epochs=5)
 test_loss, test_acc = model.evaluate(test_images, test_labels) 
 
 print('The accuracy acquired : ', test_acc)
+
+model.save(cwd + "cnetmodel.h5")
+print("Saved to the folder in current working directory")
